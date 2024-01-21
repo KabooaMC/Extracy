@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Extracy:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Extracy_jar</output-path>
+    <root id="archive" name="Extracy.jar">
+      <element id="module-output" name="Extracy" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/server.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>
